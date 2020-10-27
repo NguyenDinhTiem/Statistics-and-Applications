@@ -1,5 +1,5 @@
 # **Statistics and Applications**
-##**INTRODUCTION**
+## **INTRODUCTION**
 Mùa thu này, trong khóa học AIFC mình học được mấy thứ hay ho như tính Mean, Median,Median, Range, Variance... mình gặp nó mấy lần trong toán rồi, giờ học lại thấy nó đơn giản cực , nhưng ứng dụng của nó thật hay ho, rất thú vị.
 
 ### **NỘI DUNG:** 
